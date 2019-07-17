@@ -1,0 +1,355 @@
+
+html {
+    background-color: #fff;
+}
+
+.layui-card .layui-tab-brief .layui-tab-title {
+    border-color: #ccc;
+}
+
+#test_box .layui-icon-file:before {
+    content: "\e63c";
+    color: #1e9fff;
+}
+
+.layui-tree-setHide > .layui-tree-entry .layui-tree-main .layui-tree-txt {
+    font-weight: 600;
+}
+
+.layui-tree-showLine .layui-tree-icon {
+    font-weight: 500;
+}
+
+.layui-tree-icon {
+    border-color: #1e9fff;
+}
+
+.layui-icon-subtraction:before {
+    color: #1e9fff;
+
+}
+
+.layui-icon-addition:before {
+    color: #1e9fff;
+
+}
+
+.layui-tree-line .layui-tree-set .layui-tree-set:after,
+.layui-tree-line .layui-tree-set:before {
+    border-color: #1e9fff;
+}
+
+.layui-tab-brief > .layui-tab-more li.layui-this:after,
+.layui-tab-brief > .layui-tab-title .layui-this:after {
+    border-bottom: 2px solid #5486c3
+}
+
+.layui-card-body {
+    box-sizing: border-box;
+}
+
+.layui-btn {
+    /*background-color: #2770cb;*/
+}
+
+.layui-table-cell {
+    text-align: center;
+}
+
+.layui-laypage .layui-laypage-curr .layui-laypage-em {
+    background-color: #2770cb;
+}
+
+
+.layui-table-cell.laytable-cell-1-0-11 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.two_table .laytable-cell-2-0-0,
+.two_table .laytable-cell-2-0-1,
+.two_table .laytable-cell-2-0-2 {
+    width: 160px !important;
+    text-align: center;
+}
+
+.layui-form-checked[lay-skin=primary] i {
+    border-color: #46c6b2;
+    background-color: #46c6b2;
+}
+
+#test1 {
+    display: block;
+    box-sizing: border-box;
+    background-color: #fff;
+    /*padding: 20px 10px;*/
+    /*border: 1px solid #ccc;*/
+    box-sizing: border-box;
+}
+
+.layui-col-space15 {
+    margin: 0;
+}
+
+.layui-card .layui-tab-brief .layui-tab-title {
+    margin-top: 10px;
+}
+
+.layui-card-header {
+    box-sizing: border-box;
+}
+
+.layui-fluid {
+    display: flex;
+}
+
+.layui-card-body {
+    box-sizing: border-box;
+}
+
+.layui-row.layui-col-space15 {
+    background-color: #fff;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#test2 .layui-fluid {
+    overflow: hidden;
+}
+
+.layui-col-space15 > * {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.layui-fluid {
+    margin: 15px;
+}
+
+.layui-row.layui-col-space15 {
+    width: 78%;
+}
+
+
+.layui-row.layui-col-space15 {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.layui-tab layui-tab-brief {
+    height: 60px;
+}
+
+.laytable-cell-2-0-0,
+.laytable-cell-2-0-1,
+.laytable-cell-2-0-2 {
+    width: 100px !important;
+    text-align: center;
+}
+
+.two_table .laytable-cell-2-0-0,
+.two_table .laytable-cell-2-0-1,
+.two_table .laytable-cell-2-0-2 {
+    width: 169px !important;
+    text-align: center;
+}
+
+.layui-card .layui-tab-brief .layui-tab-content {
+    padding-right: 0;
+}
+
+.laytable-cell-2-0-3 {
+    text-align: center !important;
+
+}
+
+.layui-btn {
+    /*background-color: #2770cb !important;*/
+    color: #fff;
+}
+
+/*.layui-fluid {*/
+/*padding: 0;*/
+/*}*/
+.layui-card .layui-tab-brief .layui-tab-title li {
+    height: 42px;
+}
+
+.laytable-cell-2-0-3 span {
+    display: block;
+    text-align: center !important;
+}
+
+.layui-card .layui-tab-brief .layui-tab-title li.layui-this {
+    color: #2770cc;
+    border-bottom: 2px solid #2770cc;
+}
+
+
+
+.layui-border-box {
+    width: 100% !important;
+}
+
+.one_table .layui-btn-danger {
+    background-color:#f35958 !important
+}
+
+.two_table .laytable-cell-2-0-0 {
+    width: 0 !important;
+}
+
+.two_table .laytable-cell-2-0-9 {
+    width: 0 !important;
+    overflow: hidden;
+    padding: 0;
+}
+
+.two_table .layui-table tbody tr:hover,
+.two_table .layui-table thead tr,
+.two_table .layui-table-click,
+.two_table .layui-table-header,
+.two_table .layui-table-hover,
+.two_table .layui-table-mend,
+.two_table .layui-table-patch,
+.two_table .layui-table-tool,
+.two_table .layui-table-total,
+.layui-table-total tr,
+.layui-table[lay-even] tr:nth-child(even) {
+    background-color: #f9f9fb;
+}
+
+.two_table .layui-table {
+    background-color: #f9f9fb;
+}
+
+/*.two_table .laytable-cell-2-0-3 {*/
+/*width: 179px !important;*/
+/*}*/
+
+.layui-card-body {
+    padding-left: 0px;
+    padding-right: 0;
+}
+
+.two_table .layui-card .layui-table-view {
+    /* margin-left: 20px; */
+}
+
+.layui-laypage a:hover {
+    color: #5486c3;
+
+}
+
+.two_table .layui-card-body {
+    margin-left: 15px;
+    margin-right: 25px;
+}
+
+.layui-tab-title li {
+    box-sizing: border-box;
+}
+
+.one_table, .two_table {
+    /*overflow: scroll;*/
+    /*border: 1px solid #ccc;*/
+    margin-left: 10px;
+}
+
+.two_table {
+    margin-top: 10px;
+}
+
+th .layui-table-cell span:nth-of-type(1) {
+    font-weight: 600;
+}
+
+.laytable-cell-2-0-4 {
+    width: 155px;
+}
+
+.layui-col-md12 .layui-form {
+    padding: 15px !important;
+    padding-right: 20px !important;
+}
+
+.layui-col-md12 .layui-form .layui-table-box {
+    border: 1px solid #ccc;
+}
+
+#test1{
+    position: fixed;
+
+}
+.layui-row.layui-col-space15{
+    margin-left: 260px;
+}
+.layui-card{
+    box-shadow: none;
+}
+.layui-input:hover, .layui-textarea:hover{
+    border: 1px solid #5486c3;
+}
+@media screen and (max-width: 550px) {
+    #test1 {
+        display: none;
+    }
+    .layui-row.layui-col-space15{
+        margin-left: 0px;
+    }
+    .layui-table-cell{
+        text-align: left;
+    }
+    .two_table .laytable-cell-2-0-0,
+    .two_table .laytable-cell-2-0-1,
+    .two_table .laytable-cell-2-0-2 {
+        width: 100px !important;
+        text-align: center;
+    }
+
+    .layui-table-cell.laytable-cell-1-0-11 {
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .layui-card-body {
+        margin: 0;
+    }
+
+    body {
+        background-color: #fff;
+    }
+
+    .layui-col-md12 {
+        width: 500px;
+        box-sizing: border-box;
+        padding: 0;
+    }
+
+    .laytable-cell-checkbox {
+        display: none;
+    }
+
+    .laytable-cell-2-0-5 {
+        text-align: left;
+    }
+
+
+}
+.three{
+    background-color: #46c6b2 !important;
+}
+.blue{
+    background-color: #3780db !important;
+}
+.red{
+    background-color: #f35958 !important;
+}
+.layui-btn{
+    background-color: #46c6b2 !important ;
+}
+
+

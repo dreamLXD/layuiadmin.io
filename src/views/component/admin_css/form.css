@@ -1,0 +1,523 @@
+
+.layui-form-checked[lay-skin=primary] i{
+    background-color: #51c6b4;
+    border: 1px solid #51c6b4;
+}
+.layui-form-onswitch{
+    background-color: #51c6b4;
+    border: 1px solid #51c6b4;
+}
+.layui-form-radio>i:hover, .layui-form-radioed>i{
+    color: #51c6b4;
+}
+.layui-form-checked span, .layui-form-checked:hover span{
+    background-color: #51c6b4;
+}
+.layui-form-checked i, .layui-form-checked:hover i{
+    color: #51c6b4;
+}
+.layui-fluid{
+    display: flex;
+    background-color: #fff;
+
+}
+/*.layui-form-selected dl{*/
+/*display: block;*/
+/*}*/
+.layui-card{
+    flex:15
+}
+.sc{
+    flex: 2;
+}
+html{
+    background-color: #fff;
+}
+
+.layui-icon-date{
+    display: block;
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    font-size: 24px;
+    line-height: 38px;
+    top: 0;
+    right: 0px;
+}
+.layui-card:last-child{
+    padding-bottom: 50px;
+}
+.layui-layout-admin .layui-footer{
+    position: fixed;
+    z-index: 999;
+    padding: 20px 0;
+    padding-bottom: 50px;
+}
+.layui-card{
+
+    margin-bottom: 100px;
+}
+.layui-btn-primary{
+    border: 1px solid #1E9FFF;
+    color: #1E9FFF;
+}
+.layui-btn-primary:hover{
+    color:#1990e9;
+}
+.layui-btn-primary:active{
+    color:#1990e9;
+}
+.layui-btn{
+    padding: 0 58px;
+}
+.layui-card{
+    box-shadow: 0 0 0 0;
+}
+.layui-card-header{
+    border: none;
+}
+.layui-card-header{
+    text-align: center;
+    width: 120px;
+    box-sizing: border-box;
+    font-size: 12px;
+}
+.sc .layui-btn {
+    height: 34px ;
+    line-height: 34px;
+    padding: 0 42px;
+}
+.sc .layui-fluid{
+    padding-top: 0;
+}
+.sc .layui-col-space15>*{
+    padding-top: 0;
+}
+.layui-card-body{
+    padding: 0 15px;
+}
+.red{
+    color: red;
+}
+.layui-form-select dl dd.layui-this{
+    background-color: #50c6b4;
+}
+#test-upload-demoText span{
+    text-align: center;
+    /* display: block; */
+}
+.layui-tab.layui-tab-brief{
+    background-color: #fff;
+    margin: 10px;
+}
+.layui-tab-brief>.layui-tab-more li.layui-this:after, .layui-tab-brief>.layui-tab-title .layui-this:after{
+    border-bottom: 2px solid #2770cc;
+}
+.layui-tab-title .layui-this{
+    color: #2770cc;
+    font-weight: 600;
+}
+.layui-tab-title li {
+    margin-left: 20px;
+}
+.pf_2 .layui-inline{
+    width: 50%;
+    margin-right: 0;
+    box-sizing: border-box;
+    /*overflow: hidden;*/
+
+}
+
+.pf_2{
+    display: flex;
+}
+.layui-inline{
+    display: block;
+    flex: 1;
+}
+.layui-form-item .layui-input-inline{
+    margin-right: 0;
+}
+.pf_2{
+    width: 100%;
+}
+
+.layui-form-checkbox{
+    margin-right: 3px;
+}
+.pf_2m2{
+    display: inline-block;
+    width: 100%;
+    display: flex;
+    flex: 1;
+}
+.pf_2_2{
+    display: flex;
+}
+.pf_2m2:before,.pf_2m2:after{
+    display: block;
+    content: '';
+    clear: both;
+    overflow: hidden;
+}
+.layui-form-label{
+    min-width: 110px;
+    box-sizing: border-box;
+}
+.layui-form-item .layui-inline{
+    margin-right: 0;
+}
+.pf_2m2 .layui-inline{
+    flex: 1;
+}
+.pf_2_2 .pf_2m2 .layui-input-inline{
+    width: 55.6%;
+}
+
+
+.layui-input-block{
+    margin-left: 110px;
+}
+
+.layui-card .layui-tab-brief .layui-tab-title{
+
+}
+
+.layui-form-item .layui-input-inline{
+    width: 60%;
+}
+.fyrs{
+    width: 48%;
+}
+
+.pf_2m2 .layui-inline{
+    width: 46%;
+    margin-right: 0;
+}
+.pf_2m2	.layui-input-inline{
+    width: 19%;
+}
+/*.pf_2m2 .layui-input-inline {*/
+/*width: 35%;*/
+/*}*/
+/*.pf_2_2 .pf_2 .layui-inline{*/
+/*width: 47%;*/
+/*}*/
+/*.fyrs{*/
+/*width: 48%;*/
+/*}*/
+
+/*.pf_2_2 .pf_2{*/
+/*width: 48%;*/
+/*display: inline-block;*/
+/*}*/
+/*.pf_2_2 .pf_2 .layui-input-inline{*/
+/*width: 35%;*/
+/*}*/
+.layui-upload-list{
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.pf_6{
+    display: flex;
+}
+.pf_6 .layui-inline{
+    flex: 1;
+    margin-right: 10px;
+}
+
+.pf_6 .layui-inline:nth-last-of-type(1){
+    margin-right: 0;
+}
+.layui-form-item .layui-input-inline{
+    width:81.8%;
+}
+.layui-form-label{
+    padding:6px 5px;
+    padding-right: 10px;
+    font-size: 13px;
+}
+.pf_2m2{
+    margin-bottom: 0;
+}
+.pf_2_2  .pf_2 {
+    margin-bottom: 0;
+}
+
+.pf_2 .layui-inline{
+    width: 50%;
+    box-sizing: border-box;
+}
+.disabled_style{
+    background-color: #ddd;
+}
+.disabled_style::-webkit-input-placeholder{
+    color: #000;
+}
+.disabled_style:focus{
+    background-color: #ddd;
+    border: none;
+}
+.disabled_style:active{
+    background-color: #ddd;
+    border: none;
+
+}
+.disabled_style:hover{
+    background-color: #ddd;
+    border: none;
+}
+@media screen and (max-width: 1450px){
+    .layui-form-item .layui-input-inline{
+        width: 79.8%;
+    }
+}
+@media screen and (max-width: 1400px){
+    .layui-form-item .layui-input-inline{
+        width: 79%;
+    }
+}
+
+@media screen and (max-width: 1350px){
+    .layui-form-item .layui-input-inline{
+        width: 77%;
+    }
+    .pf_2_2 .pf_2m2 .layui-input-inline {
+        width: 54.6%;
+    }
+}
+
+@media screen and (max-width: 1300px){
+    .layui-form-item .layui-input-inline{
+        width: 76%;
+    }
+    .pf_2_2 .pf_2m2 .layui-input-inline {
+        width: 52.6%;
+    }
+}
+
+@media screen and (max-width: 1250px){
+    .layui-form-item .layui-input-inline{
+        width: 75%;
+    }
+    .pf_2_2 .pf_2m2 .layui-input-inline {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 1200px){
+    .layui-form-item .layui-input-inline{
+        width: 73%;
+    }
+    .pf_2_2 .pf_2m2 .layui-input-inline {
+        width: 46%;
+    }
+
+}
+@media screen and (max-width: 1150px){
+    .layui-form-item .layui-input-inline{
+        width: 72%;
+    }
+    .pf_2_2 .pf_2m2 .layui-input-inline {
+        width: 44%;
+    }
+}
+@media screen and (max-width: 1100px){
+    .layui-form-item .layui-input-inline{
+        width: 70%;
+    }
+    .pf_2_2 .pf_2m2 .layui-input-inline {
+        width: 40%;
+    }
+
+}
+@media screen and (max-width: 1050px){
+    .layui-form-item .layui-input-inline{
+        width: 68%;
+    }
+    .pf_2_2 .pf_2m2 .layui-input-inline {
+        width: 37%;
+    }
+}
+@media screen and (max-width: 1000px){
+    .layui-form-item .layui-input-inline{
+        width: 65%;
+    }
+    .pf_2_2 .pf_2m2 .layui-input-inline {
+        width: 31%;
+    }
+}
+@media screen and (max-width: 950px){
+    .layui-form-item .layui-input-inline{
+        width: 62%;
+    }
+    .pf_2_2 .pf_2m2 .layui-input-inline {
+        width: 62%;
+    }
+    .pf_2_2{
+        flex-direction: column !important;
+    }
+}
+@media screen and (max-width: 900px){
+    .layui-form-item .layui-input-inline{
+        width: 58%;
+    }
+    .pf_2_2 .pf_2m2 .layui-input-inline {
+        width: 58%;
+    }
+    .pf_2_2{
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 850px){
+    .layui-form-item .layui-input-inline{
+        width: 54%;
+    }
+    .pf_2_2 .pf_2m2 .layui-input-inline {
+        width: 5%;
+    }
+}
+@media screen and (max-width: 800px){
+    .layui-form-item .layui-input-inline{
+        width: 49%;
+    }
+
+}
+@media screen and (max-width: 750px){
+    .layui-form-item .layui-input-inline{
+        width:46%;
+    }
+}
+
+@media screen and (max-width: 700px){
+    .layui-form-item .layui-input-inline{
+        width:43%;
+    }
+}
+@media screen and (max-width: 650px) {
+    .pf_6{
+        flex-direction: column;
+    }
+    .pf_2_2 .pf_2m2 .layui-input-inline{
+        width: 59%;
+    }
+    .layui-upload-list{
+        position: relative;
+        height: 200px;
+    }
+    img, .sc button{
+        position: absolute;
+    }
+    .layui-fluid{
+        display: flex;
+        background-color: #fff;
+        flex-direction:column;
+    }
+
+    img,.sc button{
+        /*position: relative;*/
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .bot{
+        margin-bottom: 0;
+    }
+    .layui-card{
+        margin-bottom: 0;
+    }
+    body{
+        margin-bottom: 80px;
+    }
+
+    .display{
+        height: 0;
+    }
+    .pf_2m2{
+        width: 100%;
+    }
+    .fyrs{
+        width: 100%;
+    }
+    .display .layui-input-block{
+        height: 0;
+    }
+    .glqx .layui-input-block{
+        margin-left:110px;
+    }
+    .layui-form-label{
+        padding: 10px 5px;
+    }
+    .pf_6 .layui-inline{
+        margin-right: 0;
+    }
+    .pf_2{
+        flex-direction: column;
+    }
+    .pf_2m2
+    ,.pf_2_2{
+        flex-direction: column;
+    }
+    .pf_2_2 .pf_2 .layui-inline:nth-last-of-type(1){
+        margin-bottom: 0;
+    }
+    .layui-form-item .layui-input-inline{
+        width: auto;
+    }
+    .pf_2 .layui-inline{
+        width: 100%;
+    }
+    .layui-input-block{
+        margin-left:110px;
+    }
+    .pf_2m2 .layui-inline{
+        width: 100%;
+    }
+    .layui-layout-admin .layui-footer{
+        padding-bottom: 30px;
+    }
+
+}
+
+
+
+table {
+    width: 100%;
+}
+td{
+    position: relative;
+}
+table .right {
+    width: 100px;
+    padding-right: 10px;
+    text-align: right;
+}
+
+table .pf_6 .layui-unselect.layui-form-select {
+    margin-right: 10px;
+}
+
+table tr td:nth-last-of-type(1) .layui-form-select {
+    margin-right: 0px;
+}
+
+table tr td {
+    padding-bottom: 10px;
+}
+
+table .layui-form-checkbox{
+    margin-left:10px ;
+}
+table .pad_left{
+    padding-left: 10px;
+}
+table .right{
+    font-size: 13px;
+}
+
+table .right{
+    min-width: 120px;
+}
+.greens:hover{
+    background-color: rgba(81, 198, 180, 0.29) !important;
+}
